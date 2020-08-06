@@ -1,0 +1,29 @@
+{
+  "name": "test_api_rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bcryptjs": "^2.4.3",
+    "csv-writer": "^1.6.0",
+    "express": "^4.17.1",
+    "fast-csv": "^4.3.1",
+    "install": "^0.13.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.27",
+    "remove": "^0.1.5",
+    "requestify": "^0.2.5",
+    "underscore": "^1.10.2",
+    "uninstall": "0.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
